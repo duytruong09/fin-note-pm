@@ -1,0 +1,6 @@
+[submodule "fin-note-app"]
+	path = fin-note-app
+	url = https://github.com/duytruong09/fin-note-app.git
+[submodule "fin-note-be"]
+	path = fin-note-be
+	url = https://github.com/duytruong09/fin-note-be.git
